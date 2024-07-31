@@ -1,2 +1,2 @@
 # AI-ML
-Welcome to the AIML Repository!
+Welcome to the AI/ML Repository!
